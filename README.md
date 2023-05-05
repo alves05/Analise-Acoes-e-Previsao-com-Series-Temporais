@@ -14,7 +14,7 @@
 5.  Qual a simulação de rendimentos do portfólio dos últimos 5 anos com capital mínimo de 100,00?
 6.  Qual a simulação de rendimentos para os próximos 365 dias aplicando capital mínimo de 100,00?
 
-#### Para responde-las foi desenvolvido é um webapp que está em produção hospedado em nuvem, acesse clicando aqui [**DATA_APP**](https://alves05-portfolio-analysis-and-forecasting-data-app-j8tzig.streamlit.app/).
+#### Para responde-las foi feito deploy do data_app.py em nuvem, acesse clicando aqui [**DATA_APP**](https://alves05-portfolio-analysis-and-forecasting-data-app-j8tzig.streamlit.app/).
  
 ### Análise Exploratória de Dados:
 
