@@ -14,7 +14,7 @@
 5.  Qual a simulação de rendimentos do portfólio dos últimos 5 anos com capital mínimo de 100,00?
 6.  Qual a simulação de rendimentos para os próximos 365 dias aplicando capital mínimo de 100,00?
 
- - Para responde-las foi desenvolvido é um webapp que está emprodução hospedado em nuvem, acesse [Analysis_and_forecast](https://alves05-portfolio-analysis-and-forecasting-data-app-j8tzig.streamlit.app/)
+#### Para responde-las foi desenvolvido é um webapp que está em produção hospedado em nuvem, acesse clicando aqui [**DATA_APP**](https://alves05-portfolio-analysis-and-forecasting-data-app-j8tzig.streamlit.app/).
  
 ### Análise Exploratória de Dados:
 
@@ -36,4 +36,4 @@
 
 ### Aplicação do algoritmo Prophet para previsão de Séries Temporais:
 
- - O algoritmo será usado para fazer a previsão das cotações das ações selecionadas para o portfólio, criando uma base para simulações de possíveis rendimentos futuros. Saiba mais sobre acessando o site https://pypi.org/project/prophet/.
+ - O algoritmo foi usado para fazer a previsão das cotações das ações selecionadas para o portfólio, criando uma base para simulações de possíveis rendimentos futuros. Saiba mais sobre acessando o site https://pypi.org/project/prophet/.
