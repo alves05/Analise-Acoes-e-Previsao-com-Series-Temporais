@@ -1,9 +1,9 @@
 # Analise de Portfólio de Ações e Previsão com Series Temporais
 
-![Active Management]('logo.png')
+<img src='logo.png'>
 
 
-Tenha acesso a toda análise feita em meu portfólio de projetos clicando [AQUI.](https://sites.google.com/view/portflio-wiliams-alves?usp=sharing)
+#### Tenha acesso a toda análise no meu portfólio de projetos clicando aqui [**PORTFÓLIO**](https://sites.google.com/view/portflio-wiliams-alves/in%C3%ADcio).
 
 ### Problema de negócio:
  - O CEO gostaria de maximizar os resultados oferecendo um portfólio rentável a seus clientes, onde eles possam visualizar o desempenho da carteira de ações no período analisado e ter a possibilidade de fazer simulações de rendimentos, tanto para o passado quanto para o futuro, para isso o CEO nos deixou algumas perguntas, que foram:
