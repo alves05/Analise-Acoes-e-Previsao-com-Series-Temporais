@@ -3,7 +3,7 @@
 # Analise de Portfólio de Ações e Previsão com Series Temporais
 
 ---
-### ANÁLISE COMPLETA NO PORTFÓLIO CLICANDO [**AQUI**](https://sites.google.com/view/portflio-wiliams-alves/in%C3%ADcio).
+### ANÁLISE COMPLETA NO PORTFÓLIO CLICANDO [**AQUI**](https://sites.google.com/view/portflio-wiliams-alves/detalhes).
 
 #### Problema de negócio:
  - O CEO gostaria de maximizar os resultados oferecendo um portfólio rentável a seus clientes, onde eles possam visualizar o desempenho da carteira de ações no período analisado e ter a possibilidade de fazer simulações de rendimentos, tanto para o passado quanto para o futuro, para isso o CEO nos deixou algumas perguntas, que foram:
@@ -14,7 +14,7 @@
 4. Qual a simulação de rendimentos do portfólio dos últimos 5 anos com capital mínimo de 100,00?
 5. Qual a simulação de rendimentos para os próximos 365 dias aplicando capital mínimo de 100,00?
 
-Com base nas questões levantadas pelo CEO, realizaremos análise exploratória dos dados, levantamento e validação de hipóteses, previsões usando séries temporais e por fim o deploy da aplicação web, disponível clicando [**AQUI**](ENDEREÇO).
+Com base nas questões levantadas pelo CEO, realizaremos análise exploratória dos dados, levantamento e validação de hipóteses, previsões usando séries temporais e por fim o deploy da aplicação web, disponível clicando [**AQUI**](https://alves05-app-portfolio-analysis-and-forecasting-data-app-3k21yj.streamlit.app/).
  
 #### Análise Exploratória de Dados:
  - O critério de seleção das ações que irão compor o portfólio será análise técnica de gráfico, onde selecionaremos apenas as ações que estiverem em tendência de alta, ou seja, com o preço acima da linha de tendência de alta, após essa primeira seleção serão analisadas as ações que tenham correlação abaixo de 0.5, pois para ter um portfólio bem diversificado, temos que garantir que os ativos que o compõem tenham baixa correlação entre si.
