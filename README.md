@@ -1,9 +1,10 @@
 <img src='logo.png'>
 
-# Analise de Portfólio de Ações e Previsão com Series Temporais
+# Analise de Portfólio de Ações e Previsão com Séries Temporais
 
 ---
-### ANÁLISE COMPLETA NO PORTFÓLIO CLICANDO [**AQUI**](https://sites.google.com/view/portflio-wiliams-alves/detalhes).
+
+### VEJA ANÁLISE COMPLETA NO [PORTFÓLIO](https://sites.google.com/view/portflio-wiliams-alves/detalhes).
 
 #### Problema de negócio:
  - O CEO gostaria de maximizar os resultados oferecendo um portfólio rentável a seus clientes, onde eles possam visualizar o desempenho da carteira de ações no período analisado e ter a possibilidade de fazer simulações de rendimentos, tanto para o passado quanto para o futuro, para isso o CEO nos deixou algumas perguntas, que foram:
@@ -33,16 +34,11 @@ Com base nas questões levantadas pelo CEO, realizaremos análise exploratória 
 
 
 #### Aplicação do algoritmo Prophet para previsão de Séries Temporais
- - O algoritmo usado para previsão das cotações das ações do portfólio é o Prophet, será usado para criar uma base de previsões futuras que possibilitará simulações de rendimentos de aplicações futuras. Saiba mais sobre o Prophet acessando o site https://pypi.org/project/prophet/.
- - A avaliação do modelo será com algoritmo *mean_absolute_error*, esta função da biblioteca sckit-learn, calcula o erro absoluto médio e irá nos informar qual a margem de erro das cotações do modelo criado.
- - Visualização dos componentes da previsão, veremos a tendência, a sazonalidade anual e a sazonalidade semanal para cada série temporal, ou seja, para cada empresa.
- - Visualização das previsões do modelo treinado e das previsões futuras.
- - Criação da base consolidada com todas as séries temporais.
+ - O algoritmo usado para previsão das cotações das ações do portfólio é o `Prophet`, será usado para criar uma base de previsões futuras que possibilitará simulações de rendimentos de aplicações futuras. Saiba mais sobre o Prophet acessando o site https://pypi.org/project/prophet/.
+ - A avaliação do modelo será com algoritmo `mean_absolute_error`, esta função da biblioteca `sckit-learn`, calcula o erro absoluto médio e irá nos informar qual a margem de erro das cotações do modelo criado.
+ - Visualização dos gráficos e componentes da previsão, veremos a tendência, a sazonalidade anual e a sazonalidade semanal para cada série temporal, ou seja, para cada empresa.
+ - Criação da base de previsão futuras consolidada com todas as séries temporais.
  - Análise financeira da base e análise dos indicadores.
  - Simulação de rendimentos sobre a base de previsão. 
 
-
-#### Conclusão das análises feitas:
- - Por fim concluiremos com uma análise dos insights obtidos das análises do projeto.
- 
 ---
