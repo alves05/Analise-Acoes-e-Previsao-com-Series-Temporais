@@ -28,7 +28,7 @@ Com base nas questões levantadas pelo CEO, realizaremos análise exploratória 
 4. Quais ativos apresentaram o maior e menor retorno?
 5. Quais ativos apresentaram a maior e a menor volatilidade?
 6. Obtivemos retorno de portfólio maior que o risco? Qual a fronteira de eficiência?
-7. O indicador de risco/retorno sharpe ratio, mostrou resultado satisfatório? Onde acima de 1 o investimento pode ser recomendado e abaixo de 1 indica que o risco sobrepõe o retorno ficando inviável o investimento.
+7. Quais os valores obtidos nos indicadores de Retorno Esperado, Volatilidade Esperada e Sharpe Ratio?
 8. Simulando o rendimento dos últimos 5 anos, podemos afirmar que o portfólio foi rentável no período da análise?
 9. Quais empresas tiveram maior peso no portfólio?
 
