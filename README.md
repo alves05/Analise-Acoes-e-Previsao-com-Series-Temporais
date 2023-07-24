@@ -15,7 +15,7 @@
 4. Qual a simulação de rendimentos do portfólio dos últimos 5 anos com capital mínimo de 100,00?
 5. Qual a simulação de rendimentos para os próximos 365 dias aplicando capital mínimo de 100,00?
 
-Com base nas questões levantadas pelo CEO, realizaremos análise exploratória dos dados, levantamento e validação de hipóteses, previsões usando séries temporais e por fim o deploy da aplicação web, disponível clicando [**AQUI**](https://alves05-app-portfolio-analysis-and-forecasting-data-app-3k21yj.streamlit.app/).
+Com base nas questões levantadas pelo CEO, realizaremos análise exploratória dos dados, levantamento e validação de hipóteses, previsões usando séries temporais e por fim o deploy da aplicação web, disponível clicando [**AQUI**](https://app-portfolio-analysis-and-forecasting-aso11ac0pu7.streamlit.app/).
  
 #### Análise Exploratória de Dados:
  - O critério de seleção das ações que irão compor o portfólio será análise técnica de gráfico, onde selecionaremos apenas as ações que estiverem em tendência de alta, ou seja, com o preço acima da linha de tendência de alta, após essa primeira seleção serão analisadas as ações que tenham correlação abaixo de 0.5, pois para ter um portfólio bem diversificado, temos que garantir que os ativos que o compõem tenham baixa correlação entre si.
